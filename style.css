@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+.back {
+  background-image: url(https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523);
+  height: 733px;
+  width: 413px;
+  background-size: contain;
+  font-family: "Roboto", sans-serif;
+}
+
+.heading {
+  color: white;
+  text-align: center;
+}
+
+.para-1 {
+  color: white;
+  text-align: center;
+}
+
+.heading-2 {
+  color: white;
+}
+
+.para-3 {
+  color: white;
+}
+
+.btn {
+    color: white;
+    background-color: orange;
+}
+
+.para-4 {
+  color: white;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.btn-2{
+    text-align: center;
+}
